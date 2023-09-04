@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Recipe Book</string>
+    <string name="design_by">Design by @SumitSagar</string>
+    <string name="Hello">Hello</string>
+    <string name="foodies">Foodies!</string>
+    <string name="Which">Which food would you like \n To cook ?</string>
+    <string name="search_here">Search Here.....</string>
+    <string name="popular">Popular Dishes</string>
+    <string name="Famous">Famous Dishes</string>
+    <string name="See_all">See All</string>
+    <string name="Dal_Makhani">Gulab Jamun</string>
+    <string name="conten_disc">cont desc\n</string>
+    <string name="hint">Search here......</string>
+    <string name="Gulab_Jamun">Gulab Jamun</string>
+    <string name="Ingredient">Ingredient</string>
+    <string name="Ingredients">For Gulab Jamun:\n\n1 cup milk powder\n1/4 cup all-purpose flour
+        \n1/4 tsp baking soda\nPinch of cardamom powder
+        \n2 tbsp melted ghee\n2-3 tbsp milk (approx.)\nChopped nuts (optional)
+        \nOil/ghee for frying\nFor Sugar Syrup:\n\n1.5 cups sugar
+        \n1.5 cups water\nSaffron strands (optional)\n1/4 tsp cardamom powder
+        \n1 tsp rose water/essence\n</string>
+    <string name="Instruction">Instruction\n</string>
+    <string name="intstructions">Make sugar syrup: Dissolve sugar in water, add saffron and cardamom.
+        Simmer for 8-10 mins. Add rose water and set aside.
+        \n\nMake dough: Mix milk powder, flour, baking soda, cardamom, and ghee.
+        Add milk gradually to form soft dough.\n\nShape and fry: Roll dough into smooth balls.
+        Heat oil/ghee, fry balls on low heat till golden. Drain and put in syrup.\n\nSoak:
+        Let balls soak in syrup for 1-2 hours.
+        \n\nServe: Garnish with nuts if desired. Serve warm or at room temperature.
+        \n\nEnjoy your Gulab Jamun!</string>
+
+
+    <string name="navigation_open">Open Naviagtion drawer</string>
+    <string name="navigation_close">Close Naviagtion drawer</string>
+    <string name="home">Home</string>
+    <string name="all_recipe">All Recipe</string>
+    <string name="about">About</string>
+
+</resources>
